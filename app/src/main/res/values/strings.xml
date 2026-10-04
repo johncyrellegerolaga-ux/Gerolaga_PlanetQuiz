@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Planet Quiz</string>
+    <string name="quiz_title">Planet Quiz</string>
+
+    <!-- Questions -->
+    <string name="q_largest">What is the largest planet?</string>
+    <string name="q_moons">Which planet has the most moons?</string>
+    <string name="q_side">Which planet spins on its side?</string>
+
+    <!-- Planets -->
+    <string name="planet_mercury">MERCURY</string>
+    <string name="planet_venus">VENUS</string>
+    <string name="planet_earth">EARTH</string>
+    <string name="planet_mars">MARS</string>
+    <string name="planet_jupiter">JUPITER</string>
+    <string name="planet_saturn">SATURN</string>
+    <string name="planet_uranus">URANUS</string>
+    <string name="planet_neptune">NEPTUNE</string>
+
+    <!-- Answers & Details -->
+    <string name="correct_prefix">CORRECT! </string>
+    <string name="wrong_text">INCORRECT! Try again.</string>
+    <string name="ans_jupiter">Jupiter is the largest planet and is 2.5 times the mass of all the other planets put together.</string>
+    <string name="ans_saturn">Saturn has the most moons and has 82 moons.</string>
+    <string name="ans_uranus">Uranus spins on its side with its axis at nearly a right angle to the Sun.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

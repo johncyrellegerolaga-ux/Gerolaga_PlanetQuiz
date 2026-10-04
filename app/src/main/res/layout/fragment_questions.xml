@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz_title"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/btn_question1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/q_largest"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btn_question2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/q_moons"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btn_question3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/q_side" />
+</LinearLayout>
